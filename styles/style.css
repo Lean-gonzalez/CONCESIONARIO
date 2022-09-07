@@ -48,8 +48,12 @@ h1 {
     margin-top: 100px;
     margin-bottom: 100px;
     margin-left: 40px;
+    background-color: hsla(0, 0%, 0%, 0.5);
+    animation-name: example;
+    animation-duration: 100s;
+ }
 
-}
+
 
 .destacados h2 {
     text-align: center;
