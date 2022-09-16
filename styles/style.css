@@ -252,7 +252,7 @@ tr:hover td {
     overflow: hidden;
     gap: 10%;
 }
-.card {
+/* .card {
     width: 30%;
     margin: 10px;
     background-color:#adaaaa;
@@ -264,8 +264,8 @@ tr:hover td {
     font-size: 20px;
 
 
-}
-.imagen__pagina__auto {
+} */
+/* .imagen__pagina__auto {
     width: 100%;
     max-width: 100%;
     overflow: hidden;
@@ -287,7 +287,7 @@ tr:hover td {
     border: none;
     padding: 5px;
     border-radius: 10px;
-}
+} */
 
 .formulario {
 
