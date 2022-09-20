@@ -10,31 +10,24 @@
     font-size: 20px;
   }
 
-  .card {
+  &.card {
     @include card;
-    
-    .imagen__pagina__auto {
+   & .imagen__pagina__auto {
         width: 100%;
         max-width: 100%;
         overflow: hidden;
-    
-    
     }
-    .imagen__pagina__titulo {
+    &.imagen__pagina__titulo {
         font-size: 18px;
-        padding-inline: 5px;
-    
-    
+        padding-inline: 5px;    
     }
-    .imagen__pagina__parrafo {
+    &.imagen__pagina__parrafo {
         padding-inline: 10px;
-        
     }
-    .imagen__boton {
+    &.imagen__boton {
         background-color: rgb(248, 193, 172);
         border: none;
         padding: 5px;
         border-radius: 10px;
-
   }
 }
